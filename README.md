@@ -1,5 +1,6 @@
-### Detailed steps to reproduce the issue on the reproducing repository:
+### Detailed steps to reproduce this issue
 > Meilisearch must be installed locally in order to fully test it.
+
 1. Copy `.env.example` to `.env`
 2. Change `MEILISEARCH_HOST` and `MEILISEARCH_KEY` if not using default settings
 3. Create database `nova_search_issue`
